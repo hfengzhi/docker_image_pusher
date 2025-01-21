@@ -1,3 +1,4 @@
 browserless/chrome
+selenium/standalone-chrome
 kasmweb/chrome
 
