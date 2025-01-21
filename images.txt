@@ -1,1 +1,2 @@
 browserless/chrome
+kasmweb/chrome
