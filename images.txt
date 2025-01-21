@@ -1,4 +1,5 @@
 browserless/chrome
 selenium/standalone-chrome
-kasmweb/chrome
+kasmweb/chrome:1.15.0-rolling
+
 
